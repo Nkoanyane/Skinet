@@ -959,11 +959,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nmakateng.CBL\\Documents\\projects\\Skinet\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\nmakateng.CBL\\Documents\\projects\\Skinet\\infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\nmakateng.CBL\\Documents\\projects\\Skinet\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "C:\\Users\\nmakateng.CBL\\Documents\\projects\\Skinet\\infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\nmakateng.CBL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nmakateng.CBL\\Documents\\projects\\Skinet\\Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\nmakateng.CBL\\Documents\\projects\\Skinet\\infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nmakateng.CBL\\AppData\\Roaming\\NuGet\\NuGet.Config",
